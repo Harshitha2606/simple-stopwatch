@@ -11,8 +11,12 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+The stopwatch will be initially set to zero
+<img width="1453" alt="Screen Shot 2024-05-13 at 7 05 30 PM" src="https://github.com/Harshitha2606/simple-stopwatch/assets/151476392/314d709a-75c0-41dc-bf6a-6aa811c20c3b">
+
+once start is clicked it will start counting the seconds, reset button is used to set the time again to 0 and stop button is used ti stop the time
+<img width="1480" alt="Screen Shot 2024-05-13 at 7 05 45 PM" src="https://github.com/Harshitha2606/simple-stopwatch/assets/151476392/c7e08b76-28b3-49a2-baf6-a584d5e0af51">
+
 
 ### `npm test`
 
